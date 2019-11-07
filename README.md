@@ -1,2 +1,1 @@
-#README
-This is my D3 smiley face.
+#README This is my D3 smiley face.
